@@ -65,3 +65,15 @@ footer{
 #icons img{
     padding-left: 8em;
 }
+#projects{
+    background-color: black;
+    color: azure;
+    padding-top:1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    
+}
+#projects a{
+    text-decoration: underline;
+    color: azure;
+}
