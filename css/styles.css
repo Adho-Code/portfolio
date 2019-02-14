@@ -78,4 +78,9 @@ footer{
 #projects a{
     text-decoration: underline;
     color: azure;
+    float: left;
+
+}
+#projects img{
+    width:15em;
 }
