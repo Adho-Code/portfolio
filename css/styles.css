@@ -33,3 +33,23 @@ nav a:hover{
 #home h1,p{
     padding: 2em;
 }
+#about-me{
+    background-color: azure;
+    padding-top: 1em;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+#profile {
+    padding-left: 3em;
+    padding-right: 10em;    
+}
+#profile ul,ol{
+    text-align: left;
+}
+#image img{
+    padding-top: 2em;
+    width: 20em;
+    border: 1px;
+    border-radius:65px;
+}
