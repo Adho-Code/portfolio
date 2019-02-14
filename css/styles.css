@@ -4,6 +4,8 @@
     color: rgb(139,0,0);
     font-size: 1.5em;
     font-family: 'Nova Flat', cursive;
+    padding-top: 0;
+    top: 0;
 }
 nav{
     background-color: azure;
@@ -11,7 +13,7 @@ nav{
     margin-top: 0;
     font-family: 'Righteous', cursive;
     text-align: center;
-    top: 0;
+    
 }
 nav a{
     text-decoration: none;
