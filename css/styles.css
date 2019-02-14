@@ -62,10 +62,10 @@ footer{
     display: flex;
     flex-direction: row;
     color: rgb(139,0,0);
-    padding: 1em;
+    padding: 1em 1em 0.5em 1em;
 }
 #icons img{
-    padding-left: 8em;
+    padding-left: 6em;
 }
 #projects{
     background-color: black;
@@ -77,9 +77,10 @@ footer{
 }
 #projects a{
     text-decoration: underline;
-    color: azure;
+    color: azure;    
+}
+#projects a p{
     float: left;
-
 }
 #projects img{
     width:15em;
