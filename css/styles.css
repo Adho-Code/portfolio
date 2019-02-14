@@ -1,5 +1,35 @@
 .container {
     font-family: Inconsolata, monospace;
     font-size: 1.5em;
-    color: rgb(178, 34, 34);
+    color: rgb(139,0,0);
+    font-size: 1.5em;
+    font-family: 'Nova Flat', cursive;
+}
+nav{
+    background-color: azure;
+    padding: 1em;
+    margin-top: 0;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    top: 0;
+}
+nav a{
+    text-decoration: none;
+    padding: 0.5em;
+    color: black;
+}
+nav a:hover{
+    color: rgb(139,0,0);
+}
+#home{
+    background-image: url('../images/coder.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#home h1,p{
+    padding: 2em;
 }
